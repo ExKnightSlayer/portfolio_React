@@ -2,19 +2,19 @@ const logotext = "ABDUL RAHMAN";
 const meta = {
   title: "ABDUL RAHMAN",
   description:
-    "I’m ABDUL RAHMAN a Full stack developer, currently working at TECSOLVENT SOFTWARE TECHNOLOGIES, Bengaluru",
+    "I’m ABDUL RAHMAN a Front-end developer, currently working at TECSOLVENT SOFTWARE TECHNOLOGIES, Bengaluru",
 };
 
 const introdata = {
   title: "I’m ABDUL RAHMAN",
   animated: {
-    first: "I EXCEL IN MERN STACK DEVELOPMENT",
+    first: "I EXCEL IN FRONT END DEVELOPMENT",
     second: "I CREATE DYNAMIC WEB APPLICATIONS",
     third: "I BUILD ROBUST APIs AND BACKEND SYSTEMS",
     fourth: "I BRING IDEAS TO LIFE WITH REACT AND NODE.JS",
   },
   description:
-    "I am ABDUL RAHMAN, a results-driven Full Stack Developer with a keen eye for detail and a strong focus on delivering clean and efficient code. With a passion for problem-solving and a deep understanding of the MERN stack technologies, I am dedicated to creating scalable and impactful web applications",
+    "I am ABDUL RAHMAN, a results-driven Front-end Developer with a keen eye for detail and a strong focus on delivering clean and efficient code. With a passion for problem-solving and a deep understanding of the MERN stack technologies, I am dedicated to creating scalable and impactful web applications",
   your_img_url:
     "https://images.unsplash.com/photo-1517774076143-eece9f48df5f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=460&q=80",
 };
@@ -22,13 +22,13 @@ const introdata = {
 const dataabout = {
   title: "A bit about myself",
   aboutme:
-    "Experienced MERN stack developer with two plus years of hands-on expertise in building robust and scalable web applications. Proficient in front-end technologies such as React, HTML, CSS, and JavaScript, along with back-end technologies including Node.js, Express, and MongoDB. Strong problem-solving skills and a passion for delivering high-quality code to meet client needs.",
+    "Experienced Front-end developer with three plus years of hands-on expertise in building robust and scalable web applications. Proficient in front-end technologies such as React, HTML, CSS, and JavaScript, along with back-end technologies including Node.js, Express, and MongoDB. Strong problem-solving skills and a passion for delivering high-quality code to meet client needs.",
 };
 const worktimeline = [
   {
-    jobtitle: "FULL STACK DEVELOPER",
+    jobtitle: "FRONT END DEVELOPER",
     where: "TECSOLVENT SOFTWARE TECHNOLOGIES",
-    date: "2021 - PRESENT",
+    date: "2020 - PRESENT",
   },
 ];
 
@@ -164,7 +164,7 @@ const contactConfig = {
   YOUR_EMAIL: "abdulrahman.ar142@gmail.com",
   YOUR_FONE: "+91-7507404237",
   description:
-    "I am a passionate MERN Stack Developer, driven by a love for creating innovative and user-centric web applications. With a strong attention to detail and a commitment to delivering high-quality solutions, I am dedicated to exceeding expectations and making a positive impact through my work. Let's collaborate and bring your ideas to life! ",
+    "I am a passionate Front-end Developer, driven by a love for creating innovative and user-centric web applications. With a strong attention to detail and a commitment to delivering high-quality solutions, I am dedicated to exceeding expectations and making a positive impact through my work. Let's collaborate and bring your ideas to life! ",
   YOUR_SERVICE_ID: "service_xncjl97",
   YOUR_TEMPLATE_ID: "template_ybkxkwp",
   YOUR_USER_ID: "7nahqCVrmzfbLddHM",
